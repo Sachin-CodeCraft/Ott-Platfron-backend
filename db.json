@@ -1,0 +1,174 @@
+{
+  "register": [
+    {
+      "name": " sachin",
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "confirm_password": "sachin@555",
+      "username": "",
+      "id": 1
+    },
+    {
+      "name": "Sachin Ingole",
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "confirm_password": "123",
+      "username": "",
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 1
+    },
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 2
+    },
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 3
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "findUser": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "Movie": [
+    {
+      "id": 1,
+      "movie_title": "Uncharted",
+      "movie_subtitle": "The Lost Legacy",
+      "movie_rating": "3.8",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Adventure", "Comedy"],
+      "movie_length": "1h 40m",
+      "movie_status": "Released",
+      "movie_synopsis": "The story follows Chloe Frazer, who sets out on a journey to find the fabled Tusk of Ganesh. She is joined by Nadine Ross, a mercenary who is looking for her missing partner. Together, they must learn to work together to survive the wilds of India and stop a madman from unleashing a global weapon.",
+      "movie_cast": ["Nadine Ross", "Chloe Frazer", "Asav", "Vikram"],
+      "category": "Action",
+      "release_year":"2022",
+      "img": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg"
+
+    },
+    {
+      "id":2,
+      "movie_title": "The Conjuring",
+      "movie_subtitle": "The Devil Made Me Do It",
+      "movie_rating": "4",
+      "movie_language": "English",
+      "movie_genre": ["Horror", "Mystery", "Thriller"],
+      "movie_length": "2h 14m",
+      "movie_status": "Released",
+      "movie_synopsis": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "movie_cast": ["Patrick Wilson", "Vera Farmiga", "Ruairi O'Connor", "Sarah Catherine Hook"],
+      "category": "Horror",
+      "release_year":"2021",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id":3,
+      "movie_title": "Avangers Endgame",
+      "movie_subtitle": "The End",
+      "movie_rating": "4.1",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Adventure", "Drama"],
+      "movie_length": "3h 1m",
+      "movie_status": "Released",
+      "movie_synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "movie_cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"],
+      "category": "Action",
+      "release_year":"2020",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+      "id":4,
+      "movie_title": "The Fighter",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Biography", "Drama", "Sport"],
+      "movie_length": "2h 7m",
+      "movie_status": "Released",
+      "movie_synopsis": "For Micky Ward (Mark Wahlberg), boxing is a family affair. His tough-as-nails mother is his manager. His half-brother, Dicky (Christian Bale), once a promising boxer himself, is his very unreliable trainer.",
+      "movie_cast": ["Mark Wahlberg", "Christian Bale", "Amy Adams", "Melissa Leo"],
+      "category": "Biography",
+      "release_year":"2019",
+      "img": "https://i.ytimg.com/vi/VXEbdgqWNFg/movieposter.jpg"
+    },
+    {
+      "id":5,
+      "movie_title": "A beautiful Mind",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Biography", "Drama"],
+      "movie_length": "2h 15m",
+      "movie_status": "Released",
+      "movie_synopsis":"A human drama inspired by events in the life of John Forbes Nash Jr., and in part based on the biography A Beautiful Mind by Sylvia Nasar. From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experienced it all.",
+      "movie_cast": ["Russell Crowe", "Ed Harris", "Jennifer Connelly", "Christopher Plummer"],
+      "category": "Biography",
+      "release_year":"2018",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg"
+      
+    },
+
+    {
+      "id":6,
+      "movie_title": "The Dark Knight",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Crime", "Drama"],
+      "movie_length": "2h 32m",
+      "movie_status": "Released",
+      "movie_synopsis": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+      "movie_cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+      "category": "Action",
+      "release_year":"2017",
+      "img": "https://resizing.flixster.com/WAHXGKleT3QvhqHUlFGIRgcQAjU=/206x305/v2/https://flxt.tmsimg.com/assets/p173378_p_v8_au.jpg"
+    },
+    {
+      "id":7,
+      "movie_title": "The social network",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Biography", "Drama"],
+      "movie_length": "2h 1m",
+      "movie_status": "Released",
+      "movie_synopsis": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication.",
+      "movie_cast": ["Jesse Eisenberg", "Rooney Mara", "Bryan Barter", "Andrew Garfield"],
+      "category": "Biography",
+      "release_year":"2016",
+      "img": "https://media.wired.com/photos/5c57c3e3ce277c2cb23d575b/4:3/w_2749,h_2062,c_limit/Culture_Facebook_TheSocialNetwork.jpg"
+
+    }
+    
+  ]
+}
