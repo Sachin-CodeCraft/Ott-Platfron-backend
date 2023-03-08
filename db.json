@@ -59,7 +59,7 @@
       "name": "typicode"
     }
   ],
-  "Movie": [
+  "MovieTrending": [
     {
       "id": 1,
       "movie_title": "Uncharted",
@@ -155,6 +155,86 @@
     },
     {
       "id":7,
+      "movie_title": "The social network",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Biography", "Drama"],
+      "movie_length": "2h 1m",
+      "movie_status": "Released",
+      "movie_synopsis": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication.",
+      "movie_cast": ["Jesse Eisenberg", "Rooney Mara", "Bryan Barter", "Andrew Garfield"],
+      "category": "Biography",
+      "release_year":"2016 . Movie",
+      "img": "https://media.wired.com/photos/5c57c3e3ce277c2cb23d575b/4:3/w_2749,h_2062,c_limit/Culture_Facebook_TheSocialNetwork.jpg"
+
+    }
+  ],
+  "moviePopular":[
+    {
+      "id":1,
+      "movie_title": "The Walking Dead",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Drama", "Horror"],
+      "movie_length": "2h 1m",
+      "movie_status": "Released",
+      "movie_synopsis": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.",
+      "movie_cast": ["Andrew Lincoln", "Norman Reedus", "Melissa McBride", "Lauren Cohan"],
+      "category": "Action",
+      "release_year":"2019 . Movie",
+      "img": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwZjktMjQ2Zi00ZjQ0LWE5ZjktZjQwZjQ5ZjQwZjQxXkEyXkFqcGdeQXVyMTIzNjQ0NzE@._V1_.jpg"
+    },
+    {
+      "id":2,
+      "movie_title": "Avangers Endgame",
+      "movie_subtitle": "The End",
+      "movie_rating": "4.1",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Adventure", "Drama"],
+      "movie_length": "3h 1m",
+      "movie_status": "Released",
+      "movie_synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "movie_cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"],
+      "category": "Action",
+      "release_year":"2020 . Movie",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+      "id":3,
+      "movie_title": "A beautiful Mind",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Biography", "Drama"],
+      "movie_length": "2h 15m",
+      "movie_status": "Released",
+      "movie_synopsis":"A human drama inspired by events in the life of John Forbes Nash Jr., and in part based on the biography A Beautiful Mind by Sylvia Nasar. From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experienced it all.",
+      "movie_cast": ["Russell Crowe", "Ed Harris", "Jennifer Connelly", "Christopher Plummer"],
+      "category": "Biography",
+      "release_year":"2018 . Movie",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg"
+      
+    },
+
+    {
+      "id":4,
+      "movie_title": "The Dark Knight",
+      "movie_subtitle": "The Real Story",
+      "movie_rating": "5",
+      "movie_language": "English",
+      "movie_genre": ["Action", "Crime", "Drama"],
+      "movie_length": "2h 32m",
+      "movie_status": "Released",
+      "movie_synopsis": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+      "movie_cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+      "category": "Action",
+      "release_year":"2017 . Movie",
+      "img": "https://resizing.flixster.com/WAHXGKleT3QvhqHUlFGIRgcQAjU=/206x305/v2/https://flxt.tmsimg.com/assets/p173378_p_v8_au.jpg"
+    },
+    {
+      "id":5,
       "movie_title": "The social network",
       "movie_subtitle": "The Real Story",
       "movie_rating": "5",
